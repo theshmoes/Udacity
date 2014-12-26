@@ -1,0 +1,4 @@
+Websites and resources used for Udacity Project 1:
+
+1. http://getbootstrap.com/css/#overview
+2. http://www.w3schools.com/cssref/default.asp
